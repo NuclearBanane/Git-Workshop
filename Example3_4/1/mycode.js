@@ -9,7 +9,7 @@
  * 	Returns n-th number in the Fibonacci series
  *
  * Author : NuclearBanane
- * /
+ */
 function fib(i){
 	if( i == 0 || i == 1){
 		return 1;
