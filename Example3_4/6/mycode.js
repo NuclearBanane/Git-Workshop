@@ -16,3 +16,14 @@ function fib(n){
 	return (n==0 || n==1) ? 1 : fib(n-1) + fib(n-2);
 }
 
+/* Subber function
+ * 	returns the result of the substraction a - b
+ *
+ * 
+ * Author : Stickler
+ * Contributors : 
+ * Version : v0.1
+ */
+function sub(a,b) {
+	return a-b;
+}
